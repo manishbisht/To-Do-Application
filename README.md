@@ -14,3 +14,8 @@ Design details and how the app should work:-
   - You have to make sure the to-do list persists even after the page is refreshed.
   - You are free to add any additional features or improve upon the design.
 
+# Sample Image (Image 1)
+![Image 1](https://raw.githubusercontent.com/manishbisht/To-Do-Application/master/snapshots/sample.jpg)
+
+# Final Image (Image 2)
+![Image 1](https://raw.githubusercontent.com/manishbisht/To-Do-Application/master/snapshots/final.jpg)
